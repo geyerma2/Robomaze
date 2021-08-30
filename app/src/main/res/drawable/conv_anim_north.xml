@@ -1,0 +1,13 @@
+<animation-list android:id="@+id/selected"
+    android:oneshot="true"
+    xmlns:android="http://schemas.android.com/apk/res/android">
+        <item android:drawable="@drawable/convnorth" android:duration="70" />
+        <item android:drawable="@drawable/convnorth1" android:duration="70" />
+        <item android:drawable="@drawable/convnorth2" android:duration="70" />
+        <item android:drawable="@drawable/convnorth3" android:duration="70" />
+        <item android:drawable="@drawable/convnorth4" android:duration="70" />
+        <item android:drawable="@drawable/convnorth5" android:duration="70" />
+        <item android:drawable="@drawable/convnorth6" android:duration="70" />
+        <item android:drawable="@drawable/convnorth7" android:duration="70" />
+        <item android:drawable="@drawable/convnorth" android:duration="70" />
+    </animation-list>
